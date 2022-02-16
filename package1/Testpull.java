@@ -6,6 +6,7 @@ public class Ques {
             System.out.println(k);
             i = j;
             j = k;
+            //k = j;
         }
     }
 }
